@@ -1,0 +1,33 @@
+.form{
+    border: 1px solid;
+    padding: 20px;
+}
+.lable{
+    text-align: right;
+    width:100%;
+display: block;
+background:rgb(114, 112, 112);
+
+border-bottom:1px solid #161712;
+padding:10px 0 10px 0;
+}
+.input {
+    width:100%;
+display: block;
+background:rgb(177, 175, 175);
+border-top:1px solid #262626;
+border-bottom:1px solid #161712;
+padding:10px 0 10px 0;
+color:black; }
+  .submit{
+    margin:0 0 10px 0;
+}
+  .div{
+    margin:0 auto;
+    width:500px;
+    background:#777575;
+    position:center;
+    top:50px;
+    border:1px solid #262626;
+      
+  }
